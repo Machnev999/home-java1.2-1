@@ -14,7 +14,7 @@
 *В процессе тестирования использовались следующие артефакты*:
 
 * Код [public class Main](https://raw.githubusercontent.com/netology-code/javaqa-code/master/1.2_programming/variables/src/Main.java)
-
+* IntelliJ IDEA
 
 В качестве тестовых данных использовались данные:
 * [Задача №1 - Money Transfer](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
